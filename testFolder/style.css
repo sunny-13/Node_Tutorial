@@ -1,0 +1,16 @@
+h2{
+    color: aqua;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+.btn{
+    padding: 10px;
+    margin: 5px;
+    width: 50px;
+    height: 20px;
+    color:black;
+    background-color: aqua;
+}
